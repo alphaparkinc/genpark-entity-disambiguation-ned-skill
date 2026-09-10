@@ -1,0 +1,15 @@
+{
+  "name": "genpark-entity-disambiguation-ned-skill",
+  "version": "1.0.0",
+  "description": "Named Entity Disambiguation (NED) collective coherence graph ranker linking ambiguous text mentions to unambiguous knowledge graph entities.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "entity-linking",
+    "entity-disambiguation",
+    "ned",
+    "knowledge-base"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
